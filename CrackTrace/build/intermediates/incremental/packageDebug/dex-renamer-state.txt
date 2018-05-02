@@ -1,0 +1,7 @@
+#Wed Apr 04 13:09:27 CST 2018
+base.0=D\:\\Android\\CrackTrace\\CrackTrace\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bae5afbd889fa04b48ba04eefb2b7c005eae1027
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Android\\CrackTrace\\CrackTrace\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a972aa23ea77acf77ff26c6019052b2c57dfae64\\classes.dex
+base.1=D\:\\Android\\CrackTrace\\CrackTrace\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a972aa23ea77acf77ff26c6019052b2c57dfae64
+file.0=D\:\\Android\\CrackTrace\\CrackTrace\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bae5afbd889fa04b48ba04eefb2b7c005eae1027\\classes.dex

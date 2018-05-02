@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="24"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="95587928587991"
+    token="-6622004689610632362"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="94948861159768"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\Android\CrackTrace\CrackTrace\build\outputs\apk\CrackTrace-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="95587928587991"
+        verifier="COLD_SWAP_REQUESTED" />
+
+</instant-run>
