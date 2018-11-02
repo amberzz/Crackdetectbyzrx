@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CrackTrace.iml" filepath="$PROJECT_DIR$/CrackTrace.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CrackTrace/CrackTrace-CrackTrace.iml" filepath="$PROJECT_DIR$/CrackTrace/CrackTrace-CrackTrace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CrackTracetest111/CrackTracetest111.iml" filepath="$PROJECT_DIR$/CrackTracetest111/CrackTracetest111.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Crackdetect111.iml" filepath="$PROJECT_DIR$/Crackdetect111.iml" />
     </modules>
   </component>
 </project>

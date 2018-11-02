@@ -1,0 +1,4 @@
+#Wed Oct 31 18:06:50 CST 2018
+base.0=E\:\\Code\\test\\Crackdetect111\\CrackTracetest111\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

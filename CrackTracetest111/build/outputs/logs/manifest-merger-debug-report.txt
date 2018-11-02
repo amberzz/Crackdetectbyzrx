@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:2:1-66:12
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\MSI\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.0.0.aar\d8c7b3f5cf6f59cdcee2d5bfd6a14f3c\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\MSI\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.0.0.aar\247c45cb956a27ebde47b4db5285f20c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\MSI\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.0.0.aar\857e3198870fb7278fa801ca96c03939\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\MSI\.gradle\caches\transforms-1\files-1.1\support-v4-24.0.0.aar\ce8c2a53d1bed4640529b5d011f08e40\AndroidManifest.xml:17:1-27:12
+INJECTED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:2:1-66:12
+	package
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml
+		INJECTED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml
+		INJECTED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml
+		INJECTED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\MSI\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.0.0.aar\d8c7b3f5cf6f59cdcee2d5bfd6a14f3c\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\MSI\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.0.0.aar\d8c7b3f5cf6f59cdcee2d5bfd6a14f3c\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\MSI\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.0.0.aar\247c45cb956a27ebde47b4db5285f20c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\MSI\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.0.0.aar\247c45cb956a27ebde47b4db5285f20c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\MSI\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.0.0.aar\857e3198870fb7278fa801ca96c03939\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\MSI\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.0.0.aar\857e3198870fb7278fa801ca96c03939\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\MSI\.gradle\caches\transforms-1\files-1.1\support-v4-24.0.0.aar\ce8c2a53d1bed4640529b5d011f08e40\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\MSI\.gradle\caches\transforms-1\files-1.1\support-v4-24.0.0.aar\ce8c2a53d1bed4640529b5d011f08e40\AndroidManifest.xml:21:5-23:54
+INJECTED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.0.0] C:\Users\MSI\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.0.0.aar\d8c7b3f5cf6f59cdcee2d5bfd6a14f3c\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml
+		INJECTED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml
+		INJECTED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:11:5-84
+	android:name
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:11:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:12:1-77
+	android:name
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:12:18-74
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.CAMERA
+ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:14:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:15:1-67
+	android:name
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:15:18-64
+application
+ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:19:5-62:19
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\MSI\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.0.0.aar\d8c7b3f5cf6f59cdcee2d5bfd6a14f3c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\MSI\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.0.0.aar\d8c7b3f5cf6f59cdcee2d5bfd6a14f3c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\MSI\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.0.0.aar\247c45cb956a27ebde47b4db5285f20c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\MSI\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.0.0.aar\247c45cb956a27ebde47b4db5285f20c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\MSI\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.0.0.aar\857e3198870fb7278fa801ca96c03939\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\MSI\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.0.0.aar\857e3198870fb7278fa801ca96c03939\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\MSI\.gradle\caches\transforms-1\files-1.1\support-v4-24.0.0.aar\ce8c2a53d1bed4640529b5d011f08e40\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\MSI\.gradle\caches\transforms-1\files-1.1\support-v4-24.0.0.aar\ce8c2a53d1bed4640529b5d011f08e40\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:21:9-45
+	android:allowBackup
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:23:9-40
+provider#android.support.v4.content.FileProvider
+ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:24:9-32:20
+	android:grantUriPermissions
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:28:13-47
+	android:authorities
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:25:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:29:13-31:54
+	android:resource
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:31:17-51
+	android:name
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:30:17-67
+activity#com.example.cracktrace.WelcomeActivity
+ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:33:9-40:20
+	android:label
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:34:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:37:13-65
+	android:name
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:37:21-62
+category#android.intent.category.LAUNCHER
+ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:38:23-70
+activity#com.example.cracktrace.CrackTraceActivity
+ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:41:9-44:20
+	android:label
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:43:13-45
+	android:name
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:42:13-47
+activity#com.example.cracktrace.ShowImageActivity
+ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:45:9-48:20
+	android:label
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:47:13-45
+	android:name
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:46:13-46
+activity#com.example.cracktrace.ProjectPicturesActivity
+ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:49:9-52:20
+	android:label
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:51:13-45
+	android:name
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:50:13-52
+activity#com.example.cracktrace.ProjectChoseActivity
+ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:53:9-57:20
+	android:label
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:55:13-45
+	android:name
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:54:13-49
+activity#com.example.cracktrace.ShowimagebyzrxActivity
+ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:58:9-61:20
+	android:label
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:60:13-45
+	android:name
+		ADDED from E:\Code\test\Crackdetect111\CrackTracetest111\src\main\AndroidManifest.xml:59:13-51

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/project_rename"
+        android:icon="@drawable/ic_launcher"
+        android:title="项目重命名"
+        ></item>
+    <item
+        android:id="@+id/project_remove"
+        android:icon="@drawable/ic_launcher"
+        android:title="删除该项目"
+        ></item>
+
+
+</menu>

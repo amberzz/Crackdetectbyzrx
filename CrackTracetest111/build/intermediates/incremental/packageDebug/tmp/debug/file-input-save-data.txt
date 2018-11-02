@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Oct 23 21:33:11 CST 2018
+0.baseType=DIRECTORY
+0.base=E\:\\Code\\test\\Crackdetect111\\CrackTracetest111\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
